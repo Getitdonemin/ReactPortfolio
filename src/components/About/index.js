@@ -33,18 +33,19 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I completed my bootcamp at UT Austin in a 6 month course in 
+            full stack web development on December 6, 2022. I am very 
+            ambitious and look forawrd to work with the latest technologies
+            to create application for world wide use.
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            There will always be room to learn and I am exuberated to expand 
+            my knowledge in this field!
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            A few facts about me are that I love to do outdooractivity,
+            food, and my wonderful significant other while being 
+            obsessed with new technologies!!
           </p>
         </div>
 
